@@ -7,14 +7,14 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            Hyde
+title:            Code Over Cappuccino
 tagline:          'A Jekyll theme'
 description:      'Walk The Tech with <a href="https://in.linkedin.com/in/seemakadavan" target="_blank">@SeemaKadavan</a>'
 url:              http://hyde.getpoole.com
 baseurl:          /
 
 author:
-  name:           'Mark Otto'
+  name:           'Seema Kadavan'
   url:            https://in.linkedin.com/in/seemakadavan
 
 paginate:         5
