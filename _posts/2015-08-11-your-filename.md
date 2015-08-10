@@ -4,7 +4,7 @@ title: System Integrity Protection (SIP) In El Capitan
 ---
 
 
-In one word - A very good move :)
+A very good move :)
 
 El Capitan restricts all processes, including root processes from writing (creating directories/files, copying binaries etc) to /System, /bin, /usr (excluding /usr/local), and /sbin. This prevents key system directories from being modified even by the root account. 
 
