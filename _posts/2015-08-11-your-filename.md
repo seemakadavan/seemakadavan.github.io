@@ -1,5 +1,6 @@
 ---
-published: false
+layout: post
+title: System Integrity Protection (SIP) In El Capitan
 ---
 
 
